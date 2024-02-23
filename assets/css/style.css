@@ -92,7 +92,7 @@ h2 {
 }
 
 h3 {
-  color: #484848;
+  color: #ffc200;
 }
 
 h3,
@@ -129,39 +129,6 @@ strong {
 
 .animated {
   position: relative;
-}
-
-.animated-info {
-  display: inline-block;
-  vertical-align: top;
-  margin-top: 5px;
-  min-width: 260px;
-  position: relative;
-}
-
-.animated-item {
-  color: var(--primary-color);
-}
-
-.animated-item {
-  font-size: 28px;
-  line-height: inherit;
-  display: block;
-  opacity: 0;
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  animation: BottomTotop 6s linear infinite 0s;
-}
-
-.animated-item:nth-child(2n + 2) {
-  animation-delay: 2s;
-}
-
-.animated-item:nth-child(3n + 3) {
-  animation-delay: 4s;
 }
 
 @keyframes BottomTotop {
@@ -207,6 +174,7 @@ strong {
 }
 .navbar {
   position: fixed;
+  background-color: #ffc200;
   top: 0;
   right: 0;
   left: 0;

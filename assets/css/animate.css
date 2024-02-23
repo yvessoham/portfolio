@@ -8,7 +8,7 @@
  * Copyright (c) 2019 Daniel Eden
  */
 
-@-webkit-keyframes bounce {
+/*@-webkit-keyframes bounce {
   from,
   20%,
   53%,
@@ -113,6 +113,8 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
+/*
 
 @-webkit-keyframes pulse {
   from {
@@ -491,6 +493,7 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+/*
 
 @-webkit-keyframes wobble {
   from {
@@ -2853,6 +2856,7 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+/*
 
 @-webkit-keyframes rollIn {
   from {
@@ -2888,6 +2892,7 @@
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+/*
 
 @-webkit-keyframes rollOut {
   from {
